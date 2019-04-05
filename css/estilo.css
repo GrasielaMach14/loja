@@ -1,0 +1,36 @@
+h1{
+font-size: 28px;
+text-align: center;
+margin-top: 80px;
+}
+label{
+	width: 30% !important;
+	margin: auto;
+	font-size: 20px;
+}
+.container{
+	width: 24% !important;
+	margin: auto;	
+}
+.botao{
+	text-align: center;
+}
+.saudacao{
+	margin-top: 100px;
+	font-size: 35px;
+}
+.voltar{
+	float: right;
+    margin-top: 80px;
+}
+.alert-sucess{
+	color: green;
+}
+.alert-danger{
+	color: red;
+}
+.tabela{
+	width: 100%;
+	max-width: 200%;
+	margin-bottom: 26px;
+}
